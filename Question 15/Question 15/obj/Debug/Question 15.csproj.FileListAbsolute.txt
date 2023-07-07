@@ -1,0 +1,7 @@
+C:\Users\4816\source\repos\Question 15\Question 15\obj\Debug\Question 15.csproj.AssemblyReference.cache
+C:\Users\4816\source\repos\Question 15\Question 15\obj\Debug\Question 15.csproj.CoreCompileInputs.cache
+C:\Users\4816\source\repos\Question 15\Question 15\bin\Debug\Question 15.exe.config
+C:\Users\4816\source\repos\Question 15\Question 15\bin\Debug\Question 15.exe
+C:\Users\4816\source\repos\Question 15\Question 15\bin\Debug\Question 15.pdb
+C:\Users\4816\source\repos\Question 15\Question 15\obj\Debug\Question 15.exe
+C:\Users\4816\source\repos\Question 15\Question 15\obj\Debug\Question 15.pdb
