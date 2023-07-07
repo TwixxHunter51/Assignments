@@ -1,0 +1,14 @@
+C:\Users\4816\source\repos\Question 4\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
+C:\Users\4816\source\repos\Question 4\Question 4\obj\Debug\Question 4.csproj.AssemblyReference.cache
+C:\Users\4816\source\repos\Question 4\Question 4\bin\Debug\Question 4.exe.config
+C:\Users\4816\source\repos\Question 4\Question 4\bin\Debug\Question 4.exe
+C:\Users\4816\source\repos\Question 4\Question 4\bin\Debug\Question 4.pdb
+C:\Users\4816\source\repos\Question 4\Question 4\obj\Debug\Question 4.exe
+C:\Users\4816\source\repos\Question 4\Question 4\obj\Debug\Question 4.pdb
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 4\Question 4\bin\Debug\Question 4.exe.config
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 4\Question 4\bin\Debug\Question 4.exe
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 4\Question 4\bin\Debug\Question 4.pdb
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 4\Question 4\obj\Debug\Question 4.csproj.AssemblyReference.cache
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 4\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 4\Question 4\obj\Debug\Question 4.exe
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 4\Question 4\obj\Debug\Question 4.pdb
