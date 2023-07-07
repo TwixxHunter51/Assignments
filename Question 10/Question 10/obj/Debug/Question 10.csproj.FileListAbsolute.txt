@@ -1,0 +1,7 @@
+C:\Users\4816\source\repos\Question 10\Question 10\obj\Debug\Question 10.csproj.CoreCompileInputs.cache
+C:\Users\4816\source\repos\Question 10\Question 10\bin\Debug\Question 10.exe.config
+C:\Users\4816\source\repos\Question 10\Question 10\bin\Debug\Question 10.exe
+C:\Users\4816\source\repos\Question 10\Question 10\bin\Debug\Question 10.pdb
+C:\Users\4816\source\repos\Question 10\Question 10\obj\Debug\Question 10.exe
+C:\Users\4816\source\repos\Question 10\Question 10\obj\Debug\Question 10.pdb
+C:\Users\4816\source\repos\Question 10\Question 10\obj\Debug\Question 10.csproj.AssemblyReference.cache

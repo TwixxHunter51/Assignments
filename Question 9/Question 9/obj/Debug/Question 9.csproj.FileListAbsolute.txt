@@ -1,0 +1,14 @@
+C:\Users\4816\source\repos\Question 9\Question 9\bin\Debug\Question 9.exe.config
+C:\Users\4816\source\repos\Question 9\Question 9\bin\Debug\Question 9.exe
+C:\Users\4816\source\repos\Question 9\Question 9\bin\Debug\Question 9.pdb
+C:\Users\4816\source\repos\Question 9\Question 9\obj\Debug\Question 9.csproj.AssemblyReference.cache
+C:\Users\4816\source\repos\Question 9\Question 9\obj\Debug\Question 9.csproj.CoreCompileInputs.cache
+C:\Users\4816\source\repos\Question 9\Question 9\obj\Debug\Question 9.exe
+C:\Users\4816\source\repos\Question 9\Question 9\obj\Debug\Question 9.pdb
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 9\Question 9\bin\Debug\Question 9.exe.config
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 9\Question 9\bin\Debug\Question 9.exe
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 9\Question 9\bin\Debug\Question 9.pdb
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 9\Question 9\obj\Debug\Question 9.csproj.AssemblyReference.cache
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 9\Question 9\obj\Debug\Question 9.csproj.CoreCompileInputs.cache
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 9\Question 9\obj\Debug\Question 9.exe
+\\dcshare\BootCamp3\4816 - Ahmed Tariq\Assignment 1\Question 9\Question 9\obj\Debug\Question 9.pdb
